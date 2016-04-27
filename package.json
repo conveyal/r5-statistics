@@ -35,7 +35,6 @@
   "dependencies": {
     "chroma-js": "^1.1.1",
     "d3": "^3.5.16",
-    "knuth-shuffle": "^1.0.1",
     "mersennetwister": "^0.2.3",
     "metrics-graphics": "^2.8.0"
   },
