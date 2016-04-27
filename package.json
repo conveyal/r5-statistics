@@ -34,6 +34,7 @@
   "homepage": "https://github.com/conveyal/r5-integration#readme",
   "dependencies": {
     "chroma-js": "^1.1.1",
+    "d3": "^3.5.16",
     "metrics-graphics": "^2.8.0"
   },
   "devDependencies": {
